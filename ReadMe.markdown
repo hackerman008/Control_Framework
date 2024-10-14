@@ -9,13 +9,13 @@
 - Multiple simultaneous sessions
 - Multiple simultaneous listeners
 - Unhooking functionality for the Implant
-- Option for direct and indirect syscalls during for certain operations
-- Delay execution
+- Option for direct and indirect syscalls during certain operations like memory allocation, thread creation etc.
+- Delay execution for the Implant
 - Hypervisor check option to check for execution under virtual environment
 - Process check option to check for common analysis tools and monitoring tools running on the system during execution
 - Kill date to stop execution of the implant after the specified date
-- API hashing and runtime API address retrieval for many APIs
 - AES encryption for communication between Controller and the Implant
+- Many post exploitation functionalities supported by the Implant like download file, upload file, registry operations etc.
 
 ![Image_startup](/Images/Start_screen.png)
 ![Image_generate_payload](/Images/Generate.png)
@@ -23,7 +23,7 @@
 
 # **Documentation**
 
-Take a look at the PDF inside the download package to get detailed information on features and configuration setup
+Take a look at the PDF inside the download package to get detailed information on features and configuration setup.
 
 # **Things to Consider**
 
