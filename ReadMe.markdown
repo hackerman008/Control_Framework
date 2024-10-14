@@ -18,7 +18,8 @@
 - AES encryption for communication between Controller and the Implant
 
 ![Image_startup](/Images/Start_screen.png)
-![Image_generate_payload](/Images/generate_command.png)
+![Image_generate_payload](/Images/Generate.png)
+![Image_resume](/Images/resume_command.png)
 
 # **Documentation**
 
@@ -35,6 +36,6 @@ The project is in development and will include more features in the upcoming rel
 
 # **Disclaimer**
 
-This software is provided for use by red teamers and penetration testers. It should not be used for illegal activities or in an environment without authorization.
+This software is intended for use by red teamers and penetration testers. It must not be used for illegal activities or in environments without proper authorization.
 
 
