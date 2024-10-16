@@ -23,6 +23,12 @@ Download the latest release [here](https://github.com/hackerman008/Control_Frame
 ![Image_generate_payload](/Images/Generate.png)
 ![Image_resume](/Images/resume_command.png)
 
+# **Demo** 
+Take a look at the demo below to see CONTROL C2 in action
+
+- [Demo1](https://youtu.be/wkQe8FV12MU) - bypassing Windows Defender
+- [Demo2](https://youtu.be/rUYTa5EQXKM) - boot persistence 
+
 # **Documentation**
 
 Take a look at the PDF inside the download package to get detailed information on features and configuration setup.
