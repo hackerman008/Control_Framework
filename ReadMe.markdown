@@ -2,7 +2,9 @@
 
 # **About**
 
-**CONTROL C2** is a command-line based **Command and Control Framework** built for x64 Windows Operating System. The framework focuses on evasion and therefore the C2 Implant comes with many anti-analysis and runtime detection bypass functionalities.
+**CONTROL C2** is a command-line based **Command and Control Framework** built for x64 Windows Operating System. The framework focuses on evasion and therefore the C2 Implant comes with many anti-analysis and runtime detection bypass functionalities. 
+
+Download the latest release [here](https://github.com/hackerman008/Control_Framework/releases/tag/v1.0.0).
 
 # **Key Features**
 
